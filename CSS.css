@@ -1,0 +1,18 @@
+.main{
+	border:1px solid black;
+	border-radius: 10px;
+	height: 400px;
+	width: 400px;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+.main table tr td{
+	margin-top: 20px;
+}
+.main3{
+	float:right;
+	margin-top: 50px;
+}
+.x{
+	padding-bottom: 20px;
+}
